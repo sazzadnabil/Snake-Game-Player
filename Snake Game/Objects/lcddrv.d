@@ -1,0 +1,13 @@
+.\objects\lcddrv.o: lcddrv.c
+.\objects\lcddrv.o: config.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\INC\Philips\LPC21xx.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcddrv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\lcddrv.o: target.h
+.\objects\lcddrv.o: lcddrv.h

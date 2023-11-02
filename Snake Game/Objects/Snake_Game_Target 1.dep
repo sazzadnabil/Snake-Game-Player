@@ -1,0 +1,45 @@
+Dependencies for Project 'Snake_Game', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CF6E0)(--cpu ARM7TDMI -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 526"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\main.c)(0x61AEC6E6)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (config.h)(0x61AEADB5)
+I (C:\Keil_v5\ARM\INC\Philips\LPC21xx.h)(0x559CF728)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\setjmp.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EF75E)
+I (target.h)(0x61AEAE82)
+I (lcddrv.h)(0x61AEC6E6)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EF75C)
+F (.\target.c)(0x61AEB8A5)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\objects\target.o --omf_browse .\objects\target.crf --depend .\objects\target.d)
+I (config.h)(0x61AEADB5)
+I (C:\Keil_v5\ARM\INC\Philips\LPC21xx.h)(0x559CF728)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\setjmp.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EF75E)
+I (target.h)(0x61AEAE82)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_sys.h)(0x599EF75C)
+F (.\lcddrv.c)(0x61AEC6E6)(--c99 --gnu -c --cpu ARM7TDMI -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="526"-o .\objects\lcddrv.o --omf_browse .\objects\lcddrv.crf --depend .\objects\lcddrv.d)
+I (config.h)(0x61AEADB5)
+I (C:\Keil_v5\ARM\INC\Philips\LPC21xx.h)(0x559CF728)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\setjmp.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x599EF75C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EF75E)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EF75E)
+I (target.h)(0x61AEAE82)
+I (lcddrv.h)(0x61AEC6E6)
+F (.\config.h)(0x61AEADB5)()
+F (.\target.h)(0x61AEAE82)()
+F (.\lcddrv.h)(0x61AEC6E6)()
